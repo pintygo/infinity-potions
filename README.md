@@ -1,4 +1,8 @@
-## Как начать
+## Зависимости и полезная информация
+Java version = 17
+Gradle Version = 8.8
+
+## Действия при создании нового мода из темплейта
 1. Изменить `group`, `mod_name`, `mod_author`, `mod_id` в `gradle.properties` 
 2. Изменить `rootProject.name`  в `settings.gradle`.
 3. Изменить `MOD_ID`, `MOD_NAME` в `:Common.Constants` 
@@ -7,7 +11,6 @@
 6. Запустить `Project > Common > Tasks > vanilla gradle > decompile` для декомпила кубов
 7. Запустить `Project > Forge > Tasks > forgegradle runs > genIntellijRuns` для конфигурации forge
 
-Java version = 17
 
 ## Запуск клиента из IJ IDEA
 ### Forge
