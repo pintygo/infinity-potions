@@ -1,6 +1,6 @@
-package com.pinare.template.platform;
+package com.pinare.infnitypotion.platform;
 
-import com.pinare.template.platform.services.IPlatformHelper;
+import com.pinare.infnitypotion.platform.services.IPlatformHelper;
 import net.minecraftforge.fml.ModList;
 import net.minecraftforge.fml.loading.FMLLoader;
 

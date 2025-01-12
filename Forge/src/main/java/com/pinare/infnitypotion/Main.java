@@ -1,4 +1,4 @@
-package com.pinare.template;
+package com.pinare.infnitypotion;
 
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.entity.player.ItemTooltipEvent;

@@ -1,7 +1,7 @@
-package com.pinare.template.platform;
+package com.pinare.infnitypotion.platform;
 
-import com.pinare.template.Constants;
-import com.pinare.template.platform.services.IPlatformHelper;
+import com.pinare.infnitypotion.Constants;
+import com.pinare.infnitypotion.platform.services.IPlatformHelper;
 
 import java.util.ServiceLoader;
 

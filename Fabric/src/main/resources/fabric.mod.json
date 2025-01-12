@@ -1,9 +1,9 @@
 {
     "schemaVersion": 1,
-    "id": "template",
+    "id": "infinitypotion",
     "version": "${version}",
-    "name": "Template",
-    "description": "",
+    "name": "Infinity Potion",
+    "description": "All potions will no longer be spent after use.",
     "authors": [
       "Pinare"
     ],
@@ -18,7 +18,7 @@
     "environment": "*",
     "entrypoints": {
       "main": [
-        "com.pinare.template.Main"
+        "com.pinare.infnitypotion.Main"
       ]
     },
     "mixins": [

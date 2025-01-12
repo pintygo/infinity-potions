@@ -1,4 +1,4 @@
-package com.pinare.template.platform.services;
+package com.pinare.infnitypotion.platform.services;
 
 public interface IPlatformHelper {
 

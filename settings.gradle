@@ -16,5 +16,5 @@ pluginManagement {
     }
 }
 
-rootProject.name = 'Template'
+rootProject.name = 'Infinity Potion'
 include("Common", "Fabric", "Forge")
