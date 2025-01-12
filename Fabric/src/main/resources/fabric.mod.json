@@ -1,9 +1,8 @@
 {
     "schemaVersion": 1,
-    "id": "infinity_potion",
+    "id": "template",
     "version": "${version}",
-  
-    "name": "Infinity Potion",
+    "name": "Template",
     "description": "",
     "authors": [
       "Pinare"

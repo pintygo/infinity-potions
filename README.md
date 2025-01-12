@@ -4,5 +4,23 @@
 3. Изменить `MOD_ID`, `MOD_NAME` в `:Common.Constants` 
 4. Изменить `modId`, `displayName` в `:Forge/resources/META-INF/mods.toml`
 5. Изменить `id`, `name` в `resources/fabric.mod.json`
-6. Запустить `Your Project > Common > Tasks > vanilla gradle > decompile` для декомпила кубов
-7. Запустить `Your Project > Forge > Tasks > forgegradle runs > genIntellijRuns` для конфигурации forge
+6. Запустить `Project > Common > Tasks > vanilla gradle > decompile` для декомпила кубов
+7. Запустить `Project > Forge > Tasks > forgegradle runs > genIntellijRuns` для конфигурации forge
+
+Java version = 17
+
+## Запуск клиента из IJ IDEA
+### Forge
+`Project > Forge > Tasks > forgegradle runs > Client`
+
+### Fabric
+`Project > Fabric > Tasks > fabric > runClient`
+
+## Building version
+### Forge
+`Project > Forge > Tasks > build > build`
+
+Output directory `Fabric/build/libs`
+### Fabric
+`Project > Fabric > Tasks > build > build`
+Output directory `Forge/build/libs`
