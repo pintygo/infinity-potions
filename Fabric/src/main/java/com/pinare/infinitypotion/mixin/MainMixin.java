@@ -1,4 +1,4 @@
-package com.pinare.infnitypotion.mixin;
+package com.pinare.infinitypotion.mixin;
 
 import net.minecraft.client.gui.screens.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;

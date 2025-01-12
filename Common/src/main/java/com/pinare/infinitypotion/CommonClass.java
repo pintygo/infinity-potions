@@ -1,6 +1,6 @@
-package com.pinare.infnitypotion;
+package com.pinare.infinitypotion;
 
-import com.pinare.infnitypotion.platform.Services;
+import com.pinare.infinitypotion.platform.Services;
 import net.minecraft.core.Registry;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.food.FoodProperties;

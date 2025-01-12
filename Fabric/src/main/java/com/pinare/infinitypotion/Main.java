@@ -1,4 +1,4 @@
-package com.pinare.infnitypotion;
+package com.pinare.infinitypotion;
 
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.client.item.v1.ItemTooltipCallback;

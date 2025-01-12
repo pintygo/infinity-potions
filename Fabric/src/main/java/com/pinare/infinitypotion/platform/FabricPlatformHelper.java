@@ -1,6 +1,6 @@
-package com.pinare.infnitypotion.platform;
+package com.pinare.infinitypotion.platform;
 
-import com.pinare.infnitypotion.platform.services.IPlatformHelper;
+import com.pinare.infinitypotion.platform.services.IPlatformHelper;
 import net.fabricmc.loader.api.FabricLoader;
 
 public class FabricPlatformHelper implements IPlatformHelper {
