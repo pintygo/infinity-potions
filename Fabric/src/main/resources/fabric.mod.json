@@ -18,7 +18,7 @@
     "environment": "*",
     "entrypoints": {
       "main": [
-        "com.pinare.infnitypotion.Main"
+        "com.pinare.infinitypotion.Main"
       ]
     },
     "mixins": [

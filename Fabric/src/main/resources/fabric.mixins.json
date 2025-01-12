@@ -4,6 +4,8 @@
   "package": "com.pinare.infinitypotion.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "PotionMixin",
+    "ThrowablePotionItemMixin"
   ],
   "client": [
   ],
